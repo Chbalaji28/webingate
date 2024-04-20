@@ -1,0 +1,12 @@
+.home_about-img{
+    overflow: hidden;
+    border-radius: 5px;
+}
+
+.home_about-img img{
+    transition: .9s;
+}
+
+.home_about-img img:hover{
+    transform: scale(1.1);
+}

@@ -1,0 +1,18 @@
+.scroll_button{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    padding: 11px 16px;
+    border-radius: 50%;
+    border: none;
+    background: #0000f3 ;
+    color: #fff;
+    z-index: 999 !important;
+}
+.scroll_button i{
+    font-size: 20px;
+    transition: .3s;
+}
+.scroll_button:hover i{
+    margin-top: -4px !important;
+}
